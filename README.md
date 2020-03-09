@@ -1,5 +1,8 @@
 # loginsignup
 
+To run the project first install all the modules by npm i and then use npm start or node index.js
+
+
 "host": "localhost:8000",
 "Swagger Documentation Link" :- localhost:8000/documentation
 "basePath": "/",
