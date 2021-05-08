@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "2.4.3",
-    "handlebars": "4.7.3",
+    "handlebars": "4.7.7",
     "hapi": "18.1.0",
     "hapi-auth-jwt2": "9.0.1",
     "hapi-swagger": "10.1.2",
